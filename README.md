@@ -3,7 +3,7 @@
 ---
 
 # Why even make this when Jaket exists?
-- **Jacket does not Support dedicated 24/7 lobbies** since it uses the Steamworks API its Peer 2 Peer networking.
+- **Jaket does not Support dedicated 24/7 lobbies** since it uses the Steamworks API its Peer 2 Peer networking.
 - **Multikill aims to be as customizable as possible** meaning that the Server might be able to give the client instructions for custom Physics.
 - **Map Streaming** I want Multikill to be able to Stream maps from the Server / download them when joining a game, so you don't have to worry about not having the right map installed.
 - **Educational Purposes** Multikill is a project for Educational Purposes.
